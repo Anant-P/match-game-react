@@ -1,0 +1,14 @@
+.card-item-contaniner {
+  width: 100px;
+  height: 100px;
+}
+@media (max-width:768px){
+  .card-item-contaniner {
+  width: 40px;
+  height: 40px;
+}
+}
+.card-item-img {
+  width: 100%;
+  cursor: pointer;
+}

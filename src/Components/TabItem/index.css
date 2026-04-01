@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+  font-size: 18px;
+}
+.list-item-border {
+  text-decoration: underline 2px solid #fec653;
+  text-underline-offset: 10px;
+  color: #fec653;
+}
+button{
+  background-color: transparent;
+  color: #ffffff;
+  border: none;
+  padding: 0;
+  margin: 0;
+  cursor: pointer;
+}
